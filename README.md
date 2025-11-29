@@ -77,3 +77,42 @@ Wellington Mazoni de Andrade
 
 https://www.linkedin.com/in/wmazoni
 
+
+
+# 🚀 Meu Projeto
+
+Bem-vindo ao repositório do **Meu Projeto**!  
+Este README ajuda você a navegar pelos arquivos e entender como usar o projeto.
+
+---
+
+## 📑 Índice
+- [Sobre](#sobre)
+- [Instalação](#instalação)
+- Uso
+- Estrutura do Projeto
+- Contribuição
+- Licença
+
+---
+
+## Sobre
+Este projeto foi criado para demonstrar como organizar um repositório com links internos e assets.
+
+![Logo do projeto](assets/logo.png)
+
+---
+
+## Instalação
+Para instalar, siga as instruções no guia de instalação.
+
+---
+
+## Uso
+Veja exemplos no arquivo exemplos.py.
+
+---
+
+## Estrutura do Projeto
+
+
