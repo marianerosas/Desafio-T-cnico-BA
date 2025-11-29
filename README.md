@@ -1,6 +1,6 @@
 # Desafio-Técnico-BA
-# Sistema de gestão de equipamentos Processo de Injeção Química em poços de Petróleo
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+# Sistema de Gestão de Equipamentos para Injeção Química em Poços de Petróleo
+
 
 # Sobre o projeto
 
